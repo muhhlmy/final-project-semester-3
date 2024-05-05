@@ -1,0 +1,133 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.navbar-brand img {
+  width: 10vh;
+}
+
+.navbar-nav {
+  font-size: 2.3vh;
+}
+
+.navbar-expand-lg {
+  background-color: white !important;
+}
+
+#beranda {
+  height: 87.2vh;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1950' height='805.72' preserveAspectRatio='none' viewBox='0 0 1950 805.72'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1004%26quot%3b)' fill='none'%3e%3cpath d='M1857.9369382875968 699.0347048269203L1913.319165818686 554.759069507296 1713.6613029679725 643.6524772958312z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M-153.01 114.23 a182.44 182.44 0 1 0 364.88 0 a182.44 182.44 0 1 0 -364.88 0z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1144.2184210319679 412.8604252758729L1348.874869553177 342.60965373562124 1208.3102216454902 216.04467627423816z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1627.9820843462098 665.8109614153794L1489.214451137746 736.5166021012001 1664.6567287707087 909.3152315709856z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M741.2567723858785 308.07275917235876L514.4617967199144 360.43250496072596 793.6165181742458 534.8677348383228z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M102.94583292397883 510.7646772348713L-48.8476413200095 516.0654221592971 35.00021318862349 741.1052610630667z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1004'%3e%3crect width='1950' height='805.72' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#beranda > div > .p-2 {
+  width: 63vh !important;
+  height: 30vh !important;
+}
+
+#beranda > div > div:nth-child(1) > h1 {
+  font-size: 12vh;
+  line-height: 13vh;
+  font-weight: bold;
+}
+
+#beranda > div > div:nth-child(2) > p {
+  font-size: 2.7vh;
+  line-height: 4vh;
+  text-align: justify;
+  margin: 0;
+}
+
+#rooms {
+  background-color: rgba(37, 153, 92, 0.16);
+}
+
+#navbarNav > ul {
+  padding-left: 4vh;
+}
+
+#beranda-container {
+  padding-right: 7vh;
+  padding-left: 7vh;
+}
+
+#carouselExampleCaptions {
+  width: 50%;
+  height: 70%;
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+
+#carouselExampleCaptions h5 {
+  font-size: 3vh;
+}
+
+#carouselExampleCaptions p {
+  font-size: 2vh;
+}
+
+#carouselExampleCaptions > div.carousel-indicators {
+  margin-bottom: 3rem;
+}
+
+#carouselExampleCaptions:hover {
+  width: 55%;
+  height: 75%;
+}
+
+#about-us {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1950' height='805.72' preserveAspectRatio='none' viewBox='0 0 1950 805.72'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1004%26quot%3b)' fill='none'%3e%3cpath d='M1857.9369382875968 699.0347048269203L1913.319165818686 554.759069507296 1713.6613029679725 643.6524772958312z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M-153.01 114.23 a182.44 182.44 0 1 0 364.88 0 a182.44 182.44 0 1 0 -364.88 0z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1144.2184210319679 412.8604252758729L1348.874869553177 342.60965373562124 1208.3102216454902 216.04467627423816z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1627.9820843462098 665.8109614153794L1489.214451137746 736.5166021012001 1664.6567287707087 909.3152315709856z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M741.2567723858785 308.07275917235876L514.4617967199144 360.43250496072596 793.6165181742458 534.8677348383228z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M102.94583292397883 510.7646772348713L-48.8476413200095 516.0654221592971 35.00021318862349 741.1052610630667z' fill='rgba(37%2c 153%2c 92%2c 0.16)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1004'%3e%3crect width='1950' height='805.72' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+#\#about-us-text {
+  width: 40%;
+}
+
+#about-us-container {
+  width: 80%;
+}
+
+#\#about-us-text h1 {
+  font-size: 4vh;
+  font-weight: 700;
+}
+
+#\#about-us-text p {
+  text-align: justify;
+}
+
+#kenapa-kami {
+  margin-top: 7vh;
+}
+
+#about-us-poster {
+  width: 40%;
+}
+
+#about-us-poster img {
+  width: 40vh;
+}
+
+.nav-item a {
+  font-size: 2.5vh;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+
+.nav-item a:hover {
+  font-size: 2.8vh;
+}
