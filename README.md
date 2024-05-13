@@ -1,4 +1,4 @@
-# Program Apotek Sederhana
+# Desain Website dengan Menggunakan HTML, CSS, PHP, dan Framework Bootstrap
 
  Garden City Hotel merupakan salah satu hotel berbintang
  di Bekasi. Hotel ini memiliki fasilitas yang lengkap dan
@@ -6,7 +6,7 @@
  memiliki website yang dapat dimanfaatkan untuk
  mempromosikan hotel tersebut kepada calon pelanggan.
  
- Oleh karena itu, penulis melakukan pengembangan situs
+ Oleh karena itu, kami melakukan pengembangan situs
  web untuk Garden City Hotel. Tujuannya adalah untuk
  memberikan informasi yang lengkap dan terkini tentang
  hotel tersebut, serta untuk memudahkan calon
